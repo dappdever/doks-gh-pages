@@ -15,9 +15,6 @@ An initial set of badges are now available.
 These include:
 - Treasurer 
 - Facilitator
-- Lamp Lighter
-- Moderator
-- Badge Librarian
 - Enroller
 
 The badge rewards vary from 0% to 5% and also vary depending on the token.  For example, a Treasurer badge holder receives a 3% bonus on HYPHA payments and a Lamp Lighter receives a 5% bonus on HVOICE.
