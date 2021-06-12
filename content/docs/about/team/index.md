@@ -13,14 +13,13 @@ weight: 110
 toc: true
 ---
 
-#### Augusto
-{{< img-simple src="augusto-avatar.png" alt="Augusto" class="border-0 rounded-circle" >}}
+Need to figure out what/who goes here...
 
-#### Max
-{{< img-simple src="max-avatar-300.png" alt="Max" class="border-0 rounded-circle" >}}
+<br/>
+Key leaders on Peru project, plus also connectivity to a legal entity for grant activity, cloud computer credits ...
 
-#### Sebastian
-{{< img-simple src="sebastian-avatar.png" alt="Sebastian" class="border-0 rounded-circle" >}}
+<br/>
+Photos, titles, contact info, etc....
 
 
 
