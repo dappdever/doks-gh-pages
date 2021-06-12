@@ -2,8 +2,8 @@
 title: "National Cooperative Business Association (NCBA) to partner globally"
 description: "The NCBA has adopted the platform as their recommended software for cooperatives around the world"
 lead: ""
-date: 2020-12-11T09:19:42+01:00
-lastmod: 2020-12-11T09:19:42+01:00
+date: 2021-06-11T09:19:42+01:00
+lastmod: 2021-06-11T09:19:42+01:00
 draft: false
 weight: 50
 images: []

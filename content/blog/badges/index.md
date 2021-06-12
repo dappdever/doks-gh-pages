@@ -2,8 +2,8 @@
 title: "DAO launches badges"
 description: "The genesis badge set includes treasurer, enroller, and others"
 lead: "The genesis badge set includes treasurer, enroller, and others"
-date: 2020-11-04T09:19:42+01:00
-lastmod: 2020-11-04T09:19:42+01:00
+date: 2021-06-11T09:19:42+01:00
+lastmod: 2021-06-11T09:19:42+01:00
 draft: false
 weight: 70
 images: []

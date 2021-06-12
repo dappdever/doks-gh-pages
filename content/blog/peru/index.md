@@ -2,8 +2,8 @@
 title: "Ministry of Agriculture of Peru"
 description: "The Ministry of Agriculture of Peru kicks off implementation to support 15k coffee and cacao farmers"
 lead: ""
-date: 2020-12-11T09:19:42+01:00
-lastmod: 2020-12-11T09:19:42+01:00
+date: 2021-06-11T09:19:42+01:00
+lastmod: 2021-06-11T09:19:42+01:00
 draft: false
 weight: 30
 images: []
